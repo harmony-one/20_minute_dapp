@@ -15,3 +15,7 @@ Here are the tools we'll use in this tutorial:
 4. [Remix](https://remix.ethereum.org/) - a web-based smart contract IDE to help deploy your smart contracts onto the blockchain
 
 Install Metamask and Ganache-cli onto your local machine before continuing onto the next section. 
+
+### Resources
+* [Dapp tutorial hosted page](https://sprect8.github.io/20_minute_dapp/)
+* [Video tutorial](https://www.youtube.com/watch?v=aL3yLdZxOsM)
